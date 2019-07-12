@@ -1,4 +1,4 @@
-#emotional-rollercoaster
+# emotional-rollercoaster
 (it sure was)
 
 ## Inspiration
